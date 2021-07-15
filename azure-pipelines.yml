@@ -6,9 +6,9 @@
 trigger:
 - '*'
 
-pool: 'Emin-private'
-demands:
-- npm
+pool: 'Emin-private
+  demands:
+  - npm
 
 variables:
   buildConfiguration: 'Release'
